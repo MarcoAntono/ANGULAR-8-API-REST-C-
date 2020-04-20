@@ -1,0 +1,23 @@
+<div class="container">
+  <div class="row"> 
+          <div class="col-md-4 offset-md-4"> 
+              <br>
+              <br>
+              <br>
+              <img src="https://www.utp.edu.pe/sites/default/files/automailing/logo_utp_large.png" alt="">
+                 <form action=""  [formGroup] = "formularioLogin"  >
+                        <div class="form-group row">
+                            <label for="idcliente">Usuario : </label>
+                            <input type="text" name="cliente" id="idcliente" class="form-control"  formControlName="idcliente">
+                        </div>
+                        <div class="form-group row">
+                            <label for="clave">clave : </label>
+                            <input type="password" name="clave" id="idclave" class="form-control" formControlName="Clave">
+                        </div>
+                        <button  id="btnAcceso" name="acceder" class="btn btn-success" (click)="ValidarSesion()" > Acceder </button>
+                 </form>
+          </div>
+  </div> 
+</div>
+
+

@@ -1,0 +1,28 @@
+C:\Users\Marco\source\repos\AppSesion\AppSesion\bin\Debug\netcoreapp2.1\AppSesion.deps.json
+C:\Users\Marco\source\repos\AppSesion\AppSesion\bin\Debug\netcoreapp2.1\AppSesion.runtimeconfig.json
+C:\Users\Marco\source\repos\AppSesion\AppSesion\bin\Debug\netcoreapp2.1\AppSesion.runtimeconfig.dev.json
+C:\Users\Marco\source\repos\AppSesion\AppSesion\bin\Debug\netcoreapp2.1\AppSesion.dll
+C:\Users\Marco\source\repos\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.csprojAssemblyReference.cache
+C:\Users\Marco\source\repos\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.csproj.CoreCompileInputs.cache
+C:\Users\Marco\source\repos\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.RazorAssemblyInfo.cache
+C:\Users\Marco\source\repos\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.RazorAssemblyInfo.cs
+C:\Users\Marco\source\repos\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.AssemblyInfoInputs.cache
+C:\Users\Marco\source\repos\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.AssemblyInfo.cs
+C:\Users\Marco\source\repos\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.RazorTargetAssemblyInfo.cache
+C:\Users\Marco\source\repos\AppSesion\AppSesion\bin\Debug\netcoreapp2.1\AppSesion.pdb
+C:\Users\Marco\source\repos\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.dll
+C:\Users\Marco\source\repos\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.pdb
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\bin\Debug\netcoreapp2.1\AppSesion.deps.json
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\bin\Debug\netcoreapp2.1\AppSesion.runtimeconfig.json
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\bin\Debug\netcoreapp2.1\AppSesion.runtimeconfig.dev.json
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\bin\Debug\netcoreapp2.1\AppSesion.dll
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\bin\Debug\netcoreapp2.1\AppSesion.pdb
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.csprojAssemblyReference.cache
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.csproj.CoreCompileInputs.cache
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.RazorAssemblyInfo.cache
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.RazorAssemblyInfo.cs
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.AssemblyInfoInputs.cache
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.AssemblyInfo.cs
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.RazorTargetAssemblyInfo.cache
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.dll
+D:\MATERIAL CANAL\ANGULAR 8 + API REST C#\AppSesion\AppSesion\obj\Debug\netcoreapp2.1\AppSesion.pdb

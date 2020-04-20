@@ -1,0 +1,56 @@
+<app-emcabezado></app-emcabezado>
+
+<div class="container">
+    <div class="row">
+        <div class="col-6">
+
+        </div>
+        <div class="col-6">
+            <br>
+            <br>
+            <h3 align="center">Datos del Usuario</h3>
+            <br>
+            <form action="">
+                <div class="form-group row">
+                    <label for="idCliente" class="col-md-2">idCliente:</label>
+                    <div class="col">
+                        <input type="text" name="idcliente" id="idcliente" class="form-control" [(ngModel)]= 'cliente.idCliente' >
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="idcontacto" class="col-md-2">Contacto:</label>
+                    <div class="col">
+                        <input type="text" name="idcontacto" id="idcontacto" class="form-control" [(ngModel)]= 'cliente.nombreContacto'>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="idCargo" class="col-md-2">Cargo:</label>
+                    <div class="col">
+                        <input type="text" name="idCargo" id="idCargo" class="form-control" [(ngModel)]= 'cliente.cargoContacto'>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="idCiudad" class="col-md-2">Ciudad:</label>
+                    <div class="col">
+                        <input type="text" name="idCiudad" id="idCiudad" class="form-control" [(ngModel)]= 'cliente.ciudad'>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="idRegion" class="col-md-2">Region:</label>
+                    <div class="col">
+                        <input type="text" name="idRegion" id="idRegion" class="form-control" [(ngModel)]= 'cliente.region'>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <label for="idTelefono" class="col-md-2">Telefono:</label>
+                    <div class="col">
+                        <input type="text" name="idTelefono" id="idTelefono" class="form-control" [(ngModel)]= 'cliente.telefono'>
+                    </div>
+                </div>          
+
+
+
+            </form>
+        </div>
+    </div>
+</div>
